@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+    background: #70b3ce;
+
+}
+
+.widget{
+  background-color: rgb(248, 245, 82);
+  position: relative;
+  width: 355px;
+  height: 200px;
+  margin: 150px auto;
+  border-radius: 9px;
+  padding: 25px;
+  padding-right: 30px;
+  box-shadow: 0px 31px 35px -26px #080c21;
+
+}
+.inputfield{
+  margin-bottom: 12px;
+  width: 100%;
+}
+.date
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.623);
+}
+.city
+{
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 5px;
+  color: rgba(0, 0, 0, 0.767);
+}
+.temp
+{
+  margin-top: 5px;
+  font-size: 60px;
+  color: rgba(0, 0, 0, 0.911);
+  margin-left: -3px;
+}
+.type{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: rgba(15, 15, 15, 0.712);
+}
